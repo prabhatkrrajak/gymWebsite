@@ -4,7 +4,7 @@
             font-family: 'Otomanopee One', sans-serif;
             margin: 0px;
             padding: 0px;
-            background: url('/img/bg.jpg');
+            background: url('../img/bg.jpg');
             background-size: cover;
         }
 
